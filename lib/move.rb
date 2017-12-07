@@ -8,5 +8,6 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(user_input)
- 
+name=user_input.get
+index=name.to_i
 end 
